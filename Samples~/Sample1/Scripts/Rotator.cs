@@ -7,15 +7,15 @@ public class Rotator : MonoBehaviour
     // Start is called before the first frame update
     public float RotationSpeed;
 
-    private Transform transform;
+    private Transform myTransform;
     void Start()
     {
-        transform = GetComponent<Transform>();
+        myTransform = GetComponent<Transform>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(Vector3.forward, RotationSpeed * Time.deltaTime);
+        myTransform.Rotate(Vector3.forward, RotationSpeed * Time.deltaTime);
     }
 }
