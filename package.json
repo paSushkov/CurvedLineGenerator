@@ -15,11 +15,11 @@
     "description": "Simple tool for making list of Vector3, which will form bezier curves, spirals, springs, cones.\nOn top of that you can add adjustable noise.\n\"Line\" (or even \"path\" if you want to use a bunch of Vector3 that way) can be \"cutted\" with obstacles and auto updated with optional frequency.\nMain tool - CurvesUtility. Drop it to GameObject, add LineRenderer if needed and set up parameters.",
     "samples": [
         {
-            "displayName": "Sample",
+            "displayName": "Samples",
 
-            "description": "Some samples",
+            "description": "Simple samples of possible line forms",
 
-            "path": "Samples~/Sample1"
+            "path": "Samples~/CurvedLinesSample"
 
         }
 
