@@ -1,0 +1,17 @@
+{
+    "name": "CurvedLinesUtility.Editor",
+    "references": [
+        "GUID:a41fe8e6802ba0245bc333b57a4ed367"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
